@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.fundo{
+    background-image: url("https://www.publicdomainpictures.net/pictures/280000/velka/gradient-black-red-background-1542385725Qdg.jpg");
+    height: 100vh;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    
+}
+.container{
+    margin-top: 100px;
+}
+.mt-auto{
+    margin-top: 10px!important;
+}
+
+.mt-4, .my-4 {
+    margin-top: 7.5rem!important;
+}
+
+.pt-3, .py-3 {
+    padding-top: 4rem!important;
+}
+
+footer{
+    background-color:#212529;
+    
+}
